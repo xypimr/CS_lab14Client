@@ -46,10 +46,10 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="AndroidDbPath.cs" />
         <Compile Include="MainActivity.cs" />
         <Compile Include="Resources\Resource.Designer.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
@@ -66,9 +66,9 @@
         <AndroidResource Include="Resources\values\colors.xml" />
     </ItemGroup>
     <ItemGroup>
-        <ProjectReference Include="..\CSlab13\CSlab13.csproj">
-            <Project>{7AD36AA9-6526-47BB-904F-B1E41A6DDFBC}</Project>
-            <Name>CSlab13</Name>
+        <ProjectReference Include="..\CSlab14\CSlab14.csproj">
+            <Project>{7898606b-b056-41e2-bb6c-0d93a1215153}</Project>
+            <Name>CSlab14</Name>
         </ProjectReference>
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

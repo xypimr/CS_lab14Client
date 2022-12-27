@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace CSlab13.Droid
 {
-    [Activity(Label = "CSlab13", Theme = "@style/MainTheme", MainLauncher = true,
+    [Activity(Label = "CSlab14", Theme = "@style/MainTheme", MainLauncher = true,
         ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {

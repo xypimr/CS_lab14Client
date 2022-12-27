@@ -87,7 +87,6 @@
         <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     </PropertyGroup>
     <ItemGroup>
-        <Compile Include="IosDbPath.cs" />
         <Compile Include="Main.cs" />
         <Compile Include="AppDelegate.cs" />
         <None Include="Entitlements.plist" />
@@ -107,12 +106,13 @@
         <Reference Include="Xamarin.iOS" />
     </ItemGroup>
     <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     </ItemGroup>
     <ItemGroup>
-        <ProjectReference Include="..\CSlab13\CSlab13.csproj">
-            <Project>{7AD36AA9-6526-47BB-904F-B1E41A6DDFBC}</Project>
-            <Name>CSlab13</Name>
+        <ProjectReference Include="..\CSlab14\CSlab14.csproj">
+            <Project>{7898606b-b056-41e2-bb6c-0d93a1215153}</Project>
+            <Name>CSlab14</Name>
         </ProjectReference>
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
