@@ -11,125 +11,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d4f5b23-0b73-4734-a572-21a7104b4196" name="Changes" comment="Start">
-      <change afterPath="$PROJECT_DIR$/CSlab13/CSlab14/PageBuilding.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSlab13/CSlab14/obj/CSlab13.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSlab13/CSlab14/obj/CSlab13.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/netstandard2.0/XamlC.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/netstandard2.1/CSlab13.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataBaseServer/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_activity_activity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_annotation_annotation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_annotation_annotation_experimental.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_appcompat_appcompat.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_appcompat_appcompat_resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_arch_core_core_common.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_arch_core_core_runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_asynclayoutinflater_asynclayoutinflater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_browser_browser.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_cardview_cardview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_collection_collection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_coordinatorlayout_coordinatorlayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_core_core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_cursoradapter_cursoradapter.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_customview_customview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_documentfile_documentfile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_drawerlayout_drawerlayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_fragment_fragment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_interpolator_interpolator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_legacy_legacy_support_core_ui.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_legacy_legacy_support_core_utils.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_legacy_legacy_support_v4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_lifecycle_lifecycle_common.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_lifecycle_lifecycle_livedata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_lifecycle_lifecycle_livedata_core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_lifecycle_lifecycle_runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_lifecycle_lifecycle_viewmodel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_lifecycle_lifecycle_viewmodel_savedstate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_loader_loader.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_localbroadcastmanager_localbroadcastmanager.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_media_media.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_print_print.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_recyclerview_recyclerview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_savedstate_savedstate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_slidingpanelayout_slidingpanelayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_swiperefreshlayout_swiperefreshlayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_transition_transition.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_vectordrawable_vectordrawable.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_vectordrawable_vectordrawable_animated.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_versionedparcelable_versionedparcelable.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_viewpager2_viewpager2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/androidx_viewpager_viewpager.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/com_google_android_material_material.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/libraries/guava_listenablefuture.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSlab14ClientTelitsynIvan/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/designtime/build.props" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/designtime/build.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/49/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/49/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/55/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/55/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/58/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/58/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/59/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/59/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/66/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/66/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/67/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/67/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/71/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/71/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/72/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/72/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/74/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/74/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/75/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/75/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/76/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/76/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/77/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/77/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/79/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/79/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/80/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/80/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/83/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/83/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/91/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/Debug/lp/91/jl/res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.Droid/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/CSlab13.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/CSlab13.iOS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/CSlab13.iOS.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/CSlab13.iOS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/CSlab13.iOS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/CSlab13.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/CSlab13.iOS.app/CSlab13.iOS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/CSlab13.iOS.app/CSlab13.iOS.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/CSlab13.iOS.app/CSlab13.iOS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/CSlab13.iOS.app/CSlab13.iOS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/CSlab13.iOS.app/libmono-native.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/CSlab13.iOS.app/libmono-native.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/CSlab13.iOS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/actool/_BundleResourceWithLogicalName.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/actool/_PartialAppManifest.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/coremlc/_BundleResourceWithLogicalName.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/coremlc/_PartialAppManifest.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/ibtool/_BundleResourceWithLogicalName.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/mtouch-cache/arguments" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/mtouch-cache/arguments" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/mtouch-cache/assembly-references.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/mtouch-cache/assembly-references.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/response-file.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/response-file.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab13.iOS/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab13/obj/Debug/netstandard2.1/CSlab13.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/net6.0/CSlab13.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/Assembly.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/Building.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/AssemblyPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/PageBuilding.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/AssemblyPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/Detail.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/Auditorium.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/DetailPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/PageAuditorium.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/DetailPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/PageAuditorium.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/HttpRequestData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/HttpRequestData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/ListAssembliesPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/PageListBuildings.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/ListAssembliesPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/PageListBuildings.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/ListDetailsPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/PageListAuditoriums.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/ListDetailsPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/PageListAuditoriums.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/MainPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/Part.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/AuditoriumGroup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/bin/Debug/netstandard2.0/CSlab14.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/bin/Debug/netstandard2.0/CSlab14.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/bin/Debug/netstandard2.0/CSlab14.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/bin/Debug/netstandard2.0/CSlab14.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/netstandard2.0/AssemblyPage.xaml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/netstandard2.0/CSlab14.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/netstandard2.0/CSlab14.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/netstandard2.0/ListAssembliesPage.xaml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/obj/Debug/netstandard2.0/ListDetailsPage.xaml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab13/CSlab14/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab13/CSlab14/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab14ClientTelitsynIvan.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CS_lab14Client.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSlab14ClientTelitsynIvan.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab14ClientTelitsynIvan.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSlab14ClientTelitsynIvan.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CSlab14.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/AssembliesDbContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/Assembly.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/DataBase/AssembliesDB.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/DataBase/AssembliesDB.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/DataBase/AssembliesDB.db-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/Detail.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/Part.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/WebApplication1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Humanizer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Mono.TextTemplating.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/SQLitePCLRaw.core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/System.CodeDom.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/WebApplication1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/WebApplication1.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/WebApplication1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/WebApplication1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/WebApplication1.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/WebApplication1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/ref/WebApplication1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/refint/WebApplication1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/staticwebassets.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApplication1.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/WebApplication1.csproj.EntityFrameworkCore.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/WebApplication1.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/WebApplication1.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/WebApplication1.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/rider.project.restore.info" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671973411845</updated>
-      <workItem from="1671973413631" duration="33063000" />
+      <workItem from="1671973413631" duration="33387000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1672167188372</created>
@@ -248,7 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672167188372</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Start">
+      <created>1672310153945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672310153945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Start">
+      <created>1672310181408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672310181408</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
