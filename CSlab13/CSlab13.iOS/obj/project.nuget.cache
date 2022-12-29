@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgRKhkIFKWz3CJY3iRBUANtalIcme6YnMnlXfNXMSx8NscvBUjY5vLHg5wHixP4VOYgRs8JbJM1amVpZUUPANg==",
+  "dgSpecHash": "Kin2R2tZi91xcO8ysAZOoYVEO9fv7m7VTIltFbNScfWITLB6p2Hhxgosyb7vX0Vi4sixNmzFh+4DVpF+nLVkiA==",
   "success": true,
-  "projectFilePath": "/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab13.iOS/CSlab13.iOS.csproj",
+  "projectFilePath": "/Users/oldmash/RiderProjects/labsC#/CS_lab14Client/CSlab13/CSlab13.iOS/CSlab13.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/oldmash/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "/Users/oldmash/.nuget/packages/microsoft.data.sqlite/2.2.0/microsoft.data.sqlite.2.2.0.nupkg.sha512",
