@@ -15,7 +15,7 @@
 	--abi=x86_64 \
 	--symbollist=/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/mtouch-symbols.list \
 	--dsym=no \
-	--reference=/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab13/bin/Debug/netstandard2.0/CSlab13.dll \
+	--reference=/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab14/bin/Debug/netstandard2.0/CSlab14.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Buffers.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
@@ -234,5 +234,5 @@
 	--reference=/Users/oldmash/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
 	--reference=/Users/oldmash/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
 	--reference=/Users/oldmash/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
-	--reference=/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab13/bin/Debug/netstandard2.0/CSlab13.dll \
+	--reference=/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab14/bin/Debug/netstandard2.0/CSlab14.dll \
 	@/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab13.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/response-file.rsp \

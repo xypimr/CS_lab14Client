@@ -6,9 +6,9 @@
             BarBackgroundColor="Gray"
             SelectedTabColor="DimGray"
             UnselectedTabColor="DarkGray"
-            Title="Производство">
+            Title="МБОУ СОШ">
     <TabbedPage.Children>
-        <local:ListAssembliesPage />
-        <local:ListDetailsPage/>
+        <local:PageListBuildings />
+        <local:PageListAuditoriums/>
     </TabbedPage.Children>
 </TabbedPage>

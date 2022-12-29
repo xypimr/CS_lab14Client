@@ -22,7 +22,7 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.0.0.72/lib/mono/Xamarin.iOS/System.Web.Services.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.0.0.72/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Users/oldmash/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab13/bin/Debug/netstandard2.0/CSlab13.dll
+/Users/oldmash/RiderProjects/labsC#/CSlab14ClientTelitsynIvan/CSlab13/CSlab14/bin/Debug/netstandard2.0/CSlab14.dll
 /Users/oldmash/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.0.0.72/lib/mono/Xamarin.iOS/Facades/System.ComponentModel.Annotations.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.0.0.72/lib/mono/Xamarin.iOS/System.ComponentModel.DataAnnotations.dll
